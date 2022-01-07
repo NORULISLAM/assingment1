@@ -1,0 +1,106 @@
+body{
+    font-family:  'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 60px;
+}
+.header-first-halfp{
+    padding-right: 5%;
+}
+.header-part{
+    display: flex;
+    margin-bottom: 100px;
+}
+.header-first-half{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 10%;
+}
+.red-color{
+    color: sandybrown;
+    font-size: 60px;
+}
+.half-width{
+    size: 20px;
+}
+.content{
+    margin-left: 10%;
+    margin-right: 10% ;
+}
+.button{
+border-radius: 16px 15px;
+padding: 5px 20px;    
+text-decoration: none;
+color: white;
+font-weight: 600;
+background-color: red;
+}
+.header-second-half{
+    width: 50%;
+    margin-top: 15%;
+}
+.header-second-half img{
+    width: 80%;
+    padding-left: 10%;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.span{
+    color: mistyrose;
+}
+.holud{
+    color: navajowhite;
+}
+.develop-part{
+    display: flex;
+	margin-bottom: 100px;
+}
+.develop-first-part{
+    width: 40%;
+}
+.develop-first-part img{
+	width: 100%;
+	margin: 0 5%;
+	}
+	
+.develop-second-part {
+	width: 40%;
+	}
+	
+.develop-second-part {
+	padding-right: 5%;
+	padding-left: 10%;
+	margin: 0 5%;
+	}
+.expreance-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    border-radius: 16px 15px;
+}
+#color-goals{
+    background-color: khaki;
+}
+#color-vission{
+    background-color: lightcyan;
+}
+#color-mission{
+    background-color:linen;
+}
+.example {
+text-align: center;
+}
+.example-last{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.red-last{
+    color: tomato;
+}
