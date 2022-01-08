@@ -45,10 +45,10 @@ background-color: red;
     padding-left: 10%;
 }
 .span{
-    color: mistyrose;
+    color: rgb(240, 219, 37);
 }
 .holud{
-    color: navajowhite;
+    color: rgb(243, 179, 83);
 }
 section{
     display: flex;
@@ -57,7 +57,16 @@ section{
 .develop-part{
     display: flex;
 	margin-bottom: 100px;
+    padding-left: 0px;
 }
+
+#back-part{
+    background-image: url(dd.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 40%;
+}
+
 .develop-first-part{
     width: 40%;
 }
@@ -76,30 +85,35 @@ section{
 	margin: 0 5%;
 	}
 .mission-item{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 20px 20px 60px gray;
     width: 40%;
     margin-left: 10px;
     margin-right: 10px;
     padding-left: 10px;
-    border-radius: 20px 15px;
+    border-radius: 10px 45px;
 }
 #color-goals{
     background-color: khaki;
 }
 #color-vission{
-    background-color: lightcyan;
+    background-color: lavender;
 }
-#color-mission{
+#color-mission{ 
     background-color:linen;
 }
-.example {
+.mission {
 text-align: center;
 }
-.example-last{
+.footer-last{
     color: white;
     background-color: black;
     text-align: center;
+    font-style: oblique;
 }
 .red-last{
     color: tomato;
+}
+.bns-point{
+    display: flex;
+    width: 50%;
 }
